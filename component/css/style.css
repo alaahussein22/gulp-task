@@ -1,0 +1,10 @@
+.header{text-align: center;
+     background-color:rgb(73, 160, 194);
+     color: white;
+     font-family: tahoma;
+     width: 80%;
+     height: 40%;
+     }
+
+.header h1{padding: 10px 0;margin: 10px 0;}    
+.header img{width: 99%;margin: 10px 0;} 
